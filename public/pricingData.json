@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 1000,
+    "information": "Perfect for beginners starting their fitness journey.",
+    "features": [
+      "Gym access (6 AM - 6 PM)",
+      "Basic workout equipment",
+      "Locker facility",
+      "Free drinking water"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 2000,
+    "information": "Great for regular members who want full gym access.",
+    "features": [
+      "Full day gym access",
+      "All workout equipment",
+      "Locker and shower facility",
+      "Free energy drinks",
+      "1 personal training session"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": 3500,
+    "information": "Best for people who want advanced training and personal guidance.",
+    "features": [
+      "24/7 gym access",
+      "All workout equipment",
+      "Private locker",
+      "5 personal training sessions",
+      "Custom diet plan",
+      "Body progress tracking"
+    ]
+  }
+]
